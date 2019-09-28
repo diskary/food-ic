@@ -38,7 +38,6 @@ class ProductTest extends TestCase
     public function pricesForFood()
     {
         return [
-            
             [0,0.0],
             [20,1.1],
             [100,5.5]
